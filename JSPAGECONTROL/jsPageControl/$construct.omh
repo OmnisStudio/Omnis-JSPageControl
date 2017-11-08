@@ -1,0 +1,18 @@
+;  Enter your initialization code here
+
+If $cwind().$name<>$cclass().$name     ;; form is in a subwindow
+	Do $cwind.$getConstructRow Returns pRow
+End If
+
+If pos('devicePixelRatio:2',pRow.jsDeviceInfo)     ;; use larger icons from #ICONS for hi res devices (icon sets not used so example is self contained for download)
+	Do $cinst.$objs.PagePic1.$iconid.$assign(111161)
+	Do $cinst.$objs.PagePic1.$noscale.$assign(kFalse)
+	Do $cinst.$objs.PagePic2.$iconid.$assign(111163)
+	Do $cinst.$objs.PagePic2.$noscale.$assign(kFalse)
+	Do $cinst.$objs.PagePic3.$iconid.$assign(111165)
+	Do $cinst.$objs.PagePic3.$noscale.$assign(kFalse)
+	Do $cinst.$objs.PagePic4.$iconid.$assign(111167)
+	Do $cinst.$objs.PagePic4.$noscale.$assign(kFalse)
+	Do $cinst.$objs.PagePic5.$iconid.$assign(111169)
+	Do $cinst.$objs.PagePic5.$noscale.$assign(kFalse)
+End If

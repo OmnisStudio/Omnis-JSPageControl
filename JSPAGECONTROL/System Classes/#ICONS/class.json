@@ -1,0 +1,242 @@
+{
+	"classtype": "kSystemtable",
+	"internalversion": 3,
+	"iconversion": 22,
+	"nextident": 31,
+	"properties": {
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2017-09-06 08:28:05",
+		"desc": "",
+		"external": false,
+		"moddate": "2017-01-09 14:08:46",
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": "1"
+	},
+	"iconids": [
+		{
+			"iconid": 111160,
+			"pageid": 22,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111161,
+			"pageid": 23,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111162,
+			"pageid": 24,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 1
+		},
+		{
+			"iconid": 111163,
+			"pageid": 25,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111164,
+			"pageid": 26,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111165,
+			"pageid": 27,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111166,
+			"pageid": 28,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111167,
+			"pageid": 29,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111168,
+			"pageid": 30,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111169,
+			"pageid": 31,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		}
+	],
+	"pages": [
+		{
+			"pageid": 22,
+			"name": "Pane1",
+			"bitmapid": 1,
+			"flags": 1856
+		},
+		{
+			"pageid": 23,
+			"name": "Pane1x2",
+			"bitmapid": 2,
+			"flags": 1856
+		},
+		{
+			"pageid": 24,
+			"name": "Pane2",
+			"bitmapid": 3,
+			"flags": 1856
+		},
+		{
+			"pageid": 25,
+			"name": "Pane2x2",
+			"bitmapid": 4,
+			"flags": 1856
+		},
+		{
+			"pageid": 26,
+			"name": "Pane3",
+			"bitmapid": 5,
+			"flags": 1856
+		},
+		{
+			"pageid": 27,
+			"name": "Pane3x2",
+			"bitmapid": 6,
+			"flags": 1856
+		},
+		{
+			"pageid": 28,
+			"name": "Pane4",
+			"bitmapid": 7,
+			"flags": 1856
+		},
+		{
+			"pageid": 29,
+			"name": "Pane4x2",
+			"bitmapid": 8,
+			"flags": 1856
+		},
+		{
+			"pageid": 30,
+			"name": "Pane5",
+			"bitmapid": 9,
+			"flags": 1856
+		},
+		{
+			"pageid": 31,
+			"name": "Pane5x2",
+			"bitmapid": 10,
+			"flags": 1856
+		}
+	],
+	"bitmaps": [
+		{
+			"bitmapid": 1,
+			"solid": {
+				"$png": "solid1.png"
+			},
+			"alpha": {
+				"$png": "alpha1.png"
+			}
+		},
+		{
+			"bitmapid": 2,
+			"solid": {
+				"$png": "solid2.png"
+			},
+			"alpha": {
+				"$png": "alpha2.png"
+			}
+		},
+		{
+			"bitmapid": 3,
+			"solid": {
+				"$png": "solid3.png"
+			},
+			"alpha": {
+				"$png": "alpha3.png"
+			}
+		},
+		{
+			"bitmapid": 4,
+			"solid": {
+				"$png": "solid4.png"
+			},
+			"alpha": {
+				"$png": "alpha4.png"
+			}
+		},
+		{
+			"bitmapid": 5,
+			"solid": {
+				"$png": "solid5.png"
+			},
+			"alpha": {
+				"$png": "alpha5.png"
+			}
+		},
+		{
+			"bitmapid": 6,
+			"solid": {
+				"$png": "solid6.png"
+			},
+			"alpha": {
+				"$png": "alpha6.png"
+			}
+		},
+		{
+			"bitmapid": 7,
+			"solid": {
+				"$png": "solid7.png"
+			},
+			"alpha": {
+				"$png": "alpha7.png"
+			}
+		},
+		{
+			"bitmapid": 8,
+			"solid": {
+				"$png": "solid8.png"
+			},
+			"alpha": {
+				"$png": "alpha8.png"
+			}
+		},
+		{
+			"bitmapid": 9,
+			"solid": {
+				"$png": "solid9.png"
+			},
+			"alpha": {
+				"$png": "alpha9.png"
+			}
+		},
+		{
+			"bitmapid": 10,
+			"solid": {
+				"$png": "solid10.png"
+			},
+			"alpha": {
+				"$png": "alpha10.png"
+			}
+		}
+	]
+}
